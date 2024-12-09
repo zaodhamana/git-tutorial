@@ -1,1 +1,1 @@
-console.log('Mko vipi?')
+console.log('Mko vipi? - and i\'m the GitTutorial the original origin')
