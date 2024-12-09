@@ -1,1 +1,1 @@
-console.log('Mko vipi? I\'m in git-tutorial, the cloned version')
+console.log('Mko vipi? - and i\'m the GitTutorial the original origin which pulled from the commits initiated in edit branch, pushed, edited and merged to in the clone,  then pushed back up as the final edit')
