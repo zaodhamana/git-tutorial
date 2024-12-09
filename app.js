@@ -1,1 +1,1 @@
-console.log('Mko vipi?')
+console.log('Mko vipi? I\'m in git-tutorial, the cloned version')
