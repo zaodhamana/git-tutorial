@@ -1,1 +1,1 @@
-console.log('Mko vipi? - and i\'m the GitTutorial the original origin which pulled from the commits initiated in edit branch, pushed, edited and merged to in the clone,  then pushed back up as the final edit')
+console.log('Mko vipi? - and i\'m GitTutorial edit pushed back to Github to now be the most recent original origin, which is then pulled from the commits initiated in edit branch of GitTutorial, pushed, then pulled to the clone, edited and merged into the clone,  then pushed back up as the final edit')
